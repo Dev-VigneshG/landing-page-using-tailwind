@@ -24,4 +24,4 @@ To use this landing page template:
 
 ## Demo
 
-You can view a live demo of the landing page [here](https://dev-vigneshg.github.io/My-Portfolio/).
+You can view a live demo of the landing page [here](https://dev-vigneshg.github.io/landing-page-using-tailwind/).
